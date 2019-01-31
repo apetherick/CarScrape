@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+fromEmail = "xxxx@gmail.com"
+fromPass = "************"
+toEmail = "xxx@yyy.zzz"
+
+
