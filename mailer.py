@@ -7,7 +7,7 @@ import mailconfig as cfg
 baseurl = "https://www.u-pull-it.co.uk"
 urls = ["https://www.u-pull-it.co.uk/search/catalogue/Breaker-Parts/yard/York/cartype/Vehicles-Under-7.5-Tonnes/make/Volkswagen/model/Golf",
         "https://www.u-pull-it.co.uk/search/catalogue/Breaker-Parts/yard/York/cartype/Vehicles-Under-7.5-Tonnes/make/Volkswagen/model/Bora",
-        "https://www.u-pull-it.co.uk/search/catalogue/Breaker-Parts/yard/York/cartype/Vehicles-Under-7.5-Tonnes/make/Mazda",
+        "https://www.u-pull-it.co.uk/search/catalogue/Breaker-Parts/yard/York/cartype/Vehicles-Under-7.5-Tonnes/make/Audi/model/TT",
         "https://www.u-pull-it.co.uk/search/catalogue/Breaker-Parts/yard/York/cartype/Vehicles-Under-7.5-Tonnes/make/Chrysler"]
 
 f=open(sys.path[0]+"/record.lst","rw+")
